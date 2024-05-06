@@ -1,2 +1,1 @@
 # seguimiento_inversiones
-hola
